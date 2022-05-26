@@ -1,0 +1,2 @@
+<div><style>*>*{background:#191210}div{width:50;height:50;background:#84271C;margin:125 167;border-radius:50%;box-shadow:0 0 0 25px#191210,0 0 0 45px#ECA03D}:before,:after{content:'';position:absolute;height:60;width:60;border-radius:50%;z-index:-1;transform:rotate(-45deg)}div:before{margin:-25 -125;border-top:20px solid#191210;border-bottom:20px solid#ECA03D;border-right:20px solid#191210;border-left:20px solid#ECA03D;}div:after{margin:-25 75;border-top:20px solid#ECA03D;border-bottom:20px solid#191210;border-right:20px solid#ECA03D;border-left:20px solid#191210
+  
