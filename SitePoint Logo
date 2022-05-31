@@ -1,0 +1,2 @@
+<p>
+<style>*{background:#222}p{width:30;height:100;background:#F2994A;margin:58 147;transform:rotate(45deg);border-radius:0 0 0 10px}:before,:after{content:'';position:absolute}p:after{width:29;height:100;background:#2D9CDB;margin:18 100;border-radius:0 10px 0 0}p:before{height:30;width:51;background:#2D9CDB;margin:18 50;border-radius:0 0 0 5px}body:before{height:30;width:51;background:#F2994A;margin:87.4 140;border-radius:0 5px 0 0;transform:rotate(45deg
