@@ -1,1 +1,4 @@
 <p><d><style>*{background:#191919}p,d{width:450;height:200;background:#5776f6;transform:skewY(-3.5deg);margin:-97-10}d{position:fixed;margin:278 0;transform:skewY(7deg
+
+
+<p><style>*{background:#5776f6}p{height:210;width:410;background:#191919;clip-path:polygon(0 45%,100% 33%,100% 81%,0 69%);margin:30-10
